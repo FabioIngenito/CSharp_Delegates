@@ -1,0 +1,2 @@
+# CSharp_Delegates
+Exemplo de uso de Delegates  Um DELEGATE é um tipo de referência que pode ser utilizado para encapsular métodos, mesmo os anônimos; desde que os mesmos tenham parâmetros de entrada e tipos de retorno semelhantes. Um DELEGATE pode ser instanciado com um método, estático ou não, ou também com uma expressão lambda; funciona como uma espécie de assinatura, o exemplo abaixo foi retirado do MSDN e adaptado para melhor compreensão;
